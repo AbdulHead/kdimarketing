@@ -59,7 +59,7 @@ const Services = () => {
       icon: TrendingUp,
       title: 'Viral Content Mastery',
       description: "We've created 50+ viral posts with over 1M views each. Our secret? Understanding your audience's emotions and crafting content that sparks conversations, shares, and saves.",
-      stat: 'Average 2.3M views per viral post',
+      stat: 'Average 278K views per viral post',
       color: 'from-blue-500 to-blue-600'
     },
     {
@@ -73,7 +73,7 @@ const Services = () => {
       icon: Users,
       title: 'Follower Growth Strategies',
       description: "We've grown accounts from 0 to 100K+ followers in under 6 months using organic strategies, influencer partnerships, and engagement optimization techniques.",
-      stat: '50+ accounts grown to 100K+ followers',
+      stat: '50+ accounts have reached 43K followers',
       color: 'from-green-500 to-green-600'
     },
     {
@@ -87,7 +87,7 @@ const Services = () => {
       icon: Target,
       title: 'Revenue Acceleration',
       description: 'Our comprehensive marketing strategies have generated over $15M in revenue for our clients through strategic campaign planning and execution.',
-      stat: '$15M+ total revenue generated',
+      stat: '$3.18M revenue generated',
       color: 'from-red-500 to-red-600'
     },
     {
